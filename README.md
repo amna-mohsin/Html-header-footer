@@ -3,7 +3,7 @@ This is a basic one-page website demonstrating how to implement a simple header 
 
 ## Features
  1. Clean layout with a header and footer
- 2. Fully responsive structure
+ 2. Easy-to-understand code structure for beginners
 ## Technologies Used
  1. HTML5
  2. CSS3
